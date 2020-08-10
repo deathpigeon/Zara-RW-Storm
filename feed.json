@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Zara RW Storm",
+    "description": "",
+    "home_page_url": "https://deathpigeon.github.io/zara-rw-storm",
+    "feed_url": "https://deathpigeon.github.io/zara-rw-storm/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Zara RW Storm"
+    },
+    "items": [
+        {
+            "id": "https://deathpigeon.github.io/zara-rw-storm/ghost-crimes/",
+            "url": "https://deathpigeon.github.io/zara-rw-storm/ghost-crimes/",
+            "title": "Ghost Crimes",
+            "summary": "The past haunts the present. Ghosts and spirits inhabit every corner of our world. For some, this is a thing of wonder and beauty. For others, this is another avenue for violence.Star is a psychic medium who helps people talk to various ghosts and spirits&hellip;",
+            "content_html": "<p class=\"align-center\">The past haunts the present. Ghosts and spirits inhabit every corner of our world. For some, this is a thing of wonder and beauty. For others, this is another avenue for violence.Star is a psychic medium who helps people talk to various ghosts and spirits to resolve conflicts between them. But, when crimes are done to ghosts, the present does violence to the past, it's on them to solve it.</p>\n<p class=\"align-center\">Murder? Theft? Eviction? Assault? Against ghosts??</p>\n<h2 class=\"align-center\">GHOST CRIMES!</h2>\n<p> </p>\n<h4>Cases:</h4>\n<p>Case 1: DOUBLE MURDER (Out September 1st)</p>\n<h4>Side Stories:</h4>\n<p><a href=\"#non-existing-post-with-id-3\">Farewell.</a></p>",
+            "author": {
+                "name": "Zara RW Storm"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-09T20:28:23-06:00",
+            "date_modified": "2020-08-09T20:28:23-06:00"
+        }
+    ]
+}

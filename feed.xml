@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Zara RW Storm</title>
+    <link href="https://deathpigeon.github.io/zara-rw-storm/feed.xml" rel="self" />
+    <link href="https://deathpigeon.github.io/zara-rw-storm" />
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <author>
+        <name>Zara RW Storm</name>
+    </author>
+    <id>https://deathpigeon.github.io/zara-rw-storm</id>
+
+    <entry>
+        <title>Ghost Crimes</title>
+        <author>
+            <name>Zara RW Storm</name>
+        </author>
+        <link href="https://deathpigeon.github.io/zara-rw-storm/ghost-crimes/"/>
+        <id>https://deathpigeon.github.io/zara-rw-storm/ghost-crimes/</id>
+
+        <updated>2020-08-09T20:28:23-06:00</updated>
+            <summary>
+                <![CDATA[
+                    The past haunts the present. Ghosts and spirits inhabit every corner of our world. For some, this is a thing of wonder and beauty. For others, this is another avenue for violence.Star is a psychic medium who helps people talk to various ghosts and spirits&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">The past haunts the present. Ghosts and spirits inhabit every corner of our world. For some, this is a thing of wonder and beauty. For others, this is another avenue for violence.Star is a psychic medium who helps people talk to various ghosts and spirits to resolve conflicts between them. But, when crimes are done to ghosts, the present does violence to the past, it's on them to solve it.</p>
+<p class="align-center">Murder? Theft? Eviction? Assault? Against ghosts??</p>
+<h2 class="align-center">GHOST CRIMES!</h2>
+<p> </p>
+<h4>Cases:</h4>
+<p>Case 1: DOUBLE MURDER (Out September 1st)</p>
+<h4>Side Stories:</h4>
+<p><a href="#non-existing-post-with-id-3">Farewell.</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
