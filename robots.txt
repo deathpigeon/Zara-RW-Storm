@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://deathpigeon.github.io/zara-rw-storm/sitemap.xml
